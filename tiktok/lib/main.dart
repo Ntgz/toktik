@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
        ),
       ],
       child: MaterialApp(
-        title: 'Flutter tiktok',
+        title: 'Flutter tiktokk',
         debugShowCheckedModeBanner: false,
         theme: AppTheme().getTheme(),
         home: const DiscoverScreen(),
